@@ -53,7 +53,7 @@
             this.btnCopyFiles.TabIndex = 3;
             this.btnCopyFiles.Text = "Dosyaları Kopyala";
             this.btnCopyFiles.UseVisualStyleBackColor = true;
-            //this.btnCopyFiles.Click += new System.EventHandler(this.btnCopyFiles_Click);
+            this.btnCopyFiles.Click += new System.EventHandler(this.btnCopyFiles_Click);
             // 
             // label1
             // 
